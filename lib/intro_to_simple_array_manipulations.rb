@@ -26,6 +26,17 @@ def using_concat(a,b)
   a.concat(b)
 end
 
+def using_insert(a,e)
+  a.insert(e,4)
+end
+
+def using_push(a,s)
+  a.push(s)
+end
+
+
+
+
 
 
 
