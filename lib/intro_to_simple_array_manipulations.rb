@@ -14,5 +14,9 @@ def pop_with_args(a,n)
   a.pop(n)
 end
 
+def using_shift(a)
+  a.shift
+end
+
 
 
