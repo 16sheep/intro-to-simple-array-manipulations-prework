@@ -10,7 +10,9 @@ def using_pop(a)
   a.pop
 end
 
-def using_push(a,s)
-  a.push(s)
+def pop_with_args(a,n)
+  a.pop(n)
 end
+
+
 
