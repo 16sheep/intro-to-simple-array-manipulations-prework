@@ -43,7 +43,7 @@ def using_delete(a,s)
 end
 
 def using_delete_at(a,i)
-  a.delete(i)
+  a.delete_at(i)
 end
 
 
