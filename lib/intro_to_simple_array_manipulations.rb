@@ -10,8 +10,8 @@ def using_pop(a)
   a.pop
 end
 
-def pop_with_args(a,n)
-  a.pop(n)
+def pop_with_args(a)
+  a.pop(2)
 end
 
 def using_shift(a)
