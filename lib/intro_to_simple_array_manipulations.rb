@@ -22,8 +22,8 @@ def shift_with_args(a,n)
   a.shift(n)
 end
 
-def using_push(a,s)
-  a.push(s)
+def using_concat(a,b)
+  a.concat(b)
 end
 
 
