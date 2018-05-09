@@ -30,8 +30,8 @@ def using_insert(a,e)
   a.insert(e,4)
 end
 
-def using_push(a,s)
-  a.push(s)
+def using_uniq(a)
+  a.uniq
 end
 
 
