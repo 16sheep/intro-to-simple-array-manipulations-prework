@@ -18,6 +18,16 @@ def using_shift(a)
   a.shift
 end
 
+def shift_with_args(a,n)
+  a.shift(n)
+end
+
+def using_push(a,s)
+  a.push(s)
+end
+
+
+
 
 
 
